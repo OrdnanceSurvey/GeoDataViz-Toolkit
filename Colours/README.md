@@ -4,7 +4,7 @@ The use of colour is very often fundamental to the success of a data visualisati
 
 ## GeoDataViz Colour Palettes
 
-These colour palettes have been selected to offer a good range of options depending on your data. We have carefully considered [colour vision deficiencies](https://en.wikipedia.org/wiki/Color_blindness)and each colour scheme has been tested for compatibility.
+These colour palettes have been selected to offer a good range of options depending on your data. We have carefully considered [colour vision deficiencies](https://en.wikipedia.org/wiki/Color_blindness) and each colour scheme has been tested for compatibility.
 
 _You can view and download the colour palette PDF from this repository._
 
