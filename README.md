@@ -1,4 +1,4 @@
-**GeoDataViz Toolkit**
+## GeoDataViz Toolkit
 
 _Definition of GeoDataViz: Geographic data visualisation – the design process of turning data concerned with physical, human, or location-based geography into a compelling story or argument; or at the very least a clear visual presentation of information._
 
@@ -8,13 +8,13 @@ The GeoDataViz Toolkit is a set of resources that will help you communicate your
 
 In this repository we are sharing resources, assets and other useful links.
 
-**Colours**
+## Colours
 
 The use of colour is very often fundamental to the success of a data visualisation. Colour can help with many elements of your design from improving visual contrast to simply catching the eye. Careful use of colour enhances clarity, aids storytelling and draws a viewer into your dataset. Poor use of colour can obscure data, or even mislead.
 
 _In_ _this folder_ _you will find a recommended set of colour palettes, information on how to apply colour to your visualisations and links to other useful colour resources._
 
-**Symbols**
+## Symbols
 
 Symbols help us to include lots of detail on maps.
 
@@ -24,7 +24,7 @@ Symbols can be small pictures, letters, lines or coloured areas to show features
 
 _In_ _this folder_ _you will find a set of Ordnance Survey map symbols, information on how to use symbols effectively and links to other useful map symbol resources._
 
-**Visual Deconstructions**
+## Visual Deconstructions
 
 A visual deconstruction is a method of recording the styling rules for a data visualisation. It is made up of a title, a description, a url where relevant, keyword tags, an image, plus the draw order and styling information for each layer of data from which it is compiled.
 
@@ -32,7 +32,7 @@ It is a form of documentation that allows you to quickly reference and recreate 
 
 _In_ _this folder_ _you will find a gallery of Ordnance Survey visual deconstructions, templates so you can create and share your own, and links to other sources of inspiration._
 
-**Other GeoDataViz Toolkit resources**
+## Other GeoDataViz Toolkit resources
 
 [Cartographic Design Principles](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)- Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
 
@@ -40,7 +40,7 @@ _In_ _this folder_ _you will find a gallery of Ordnance Survey visual deconstruc
 
 _NOTE: It is our intention to pull all of these resources and assets together into one place on our website._
 
-**Other useful resources**
+## Other useful resources
 
 [What is data viz?](https://infogram.com/page/data-visualization?utm_content=56598973&amp;utm_medium=social&amp;utm_source=twitter) - This article from Infogram is a good starter for ten.
 
@@ -62,7 +62,7 @@ _NOTE: It is our intention to pull all of these resources and assets together in
 
 [The little of visualisation design](http://www.visualisingdata.com/2016/03/little-visualisation-design/) - This is a collection of the entire, growing series of posts about the &#39;little of visualisation design&#39;, respecting the small decisions that make a big difference towards the good and bad of this discipline.
 
-**Feedback**
+## Feedback
 
 If you have any feedback about the GeoDataViz Toolkit then please raise an issue on this repository.
 
