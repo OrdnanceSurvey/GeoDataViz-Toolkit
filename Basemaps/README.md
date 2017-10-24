@@ -2,6 +2,8 @@
 
 Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid.
 
+This repository contains the colour values for the OS range of basemap styles.
+
 ## The OS range of basemap styles:
 
 We have created four house styles for our basemaps:
@@ -27,7 +29,7 @@ More information and the documentation can be found [here](https://apidocs.os.uk
 
 ## Feedback:
 
-If you have any feedback about these colour palettes then please raise an issue on this repository.
+If you have any feedback about these basemap colour values or the OS Maps API then please raise an issue on this repository.
 
 Thank you
 
