@@ -8,6 +8,12 @@ The GeoDataViz Toolkit is a set of resources that will help you communicate your
 
 In this repository we are sharing resources, assets and other useful links.
 
+## Basemaps
+
+Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid.
+
+_In_ _this folder_ _you will find information about the OS range of basemap styles, the colour values for each and some additional information._
+
 ## Colours
 
 The use of colour is very often fundamental to the success of a data visualisation. Colour can help with many elements of your design from improving visual contrast to simply catching the eye. Careful use of colour enhances clarity, aids storytelling and draws a viewer into your dataset. Poor use of colour can obscure data, or even mislead.
