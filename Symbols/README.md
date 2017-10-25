@@ -12,19 +12,17 @@ This set of symbols has been selected to cover a good range of use cases. If you
 
 _You can view and download the SVGs from this repository._
 
-IMAGE
-
 ## Using these symbols
 
 **Customise the colours** - Once downloaded you can customise the look and feel of these symbols by changing the colour to suite your visualisation.
 
-IMAGE
+![custom colours](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/blob/master/img/image_symbol3-01.png)
 
 _Try using the GeoDataViz colour palettes._
 
 **Mix and match** - You can edit and combine the symbols to create new custom symbols. For example, you can add any other symbol into the centre of a map pin.
 
-IMAGE
+![mix and match](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/blob/master/img/image_symbol2-01.png)
 
 **Flexible** - You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
 
