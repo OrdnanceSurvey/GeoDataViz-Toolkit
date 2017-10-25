@@ -4,7 +4,7 @@ Often referred to as a contextual or backdrop map, a basemap contains reference 
 
 _This repository contains the colour values for the OS range of basemap styles and some information regarding the use of them._
 
-## The OS range of basemap styles:
+## The OS range of basemap styles
 
 We have created four house styles for our basemaps:
 
@@ -18,7 +18,7 @@ We have created four house styles for our basemaps:
 
 ![OS basemap styles](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/os-basemap-styles.gif?token=AF3wjbzATJxMRVi8_JehUx0Gd6JiNdXMks5Z-acjwA%3D%3D)
 
-## Selecting the right basemap style:
+## Selecting the right basemap style
 
 If you are not intending to add any data overlays then use the **Road** style. If your application is Leisure focused or if the road network is of particular importance then you should use **Outdoor**. If you want to overlay additional layers of data and you are looking for a basemap to simply add context then you should use **Light** or **Night** – the decision as to which is purely an aesthetic one however, using a dark basemap can be arguably more &#39;eye-catching&#39;, yet Light can be more &#39;practical&#39;.
 
@@ -35,7 +35,7 @@ If you are using a **raster** basemap then you have less control over the stylin
 
 If you are using **vector** data to design your own basemap then you have full control over the content and the style. Feel free to use the colours provided in this repository or tweak them to meet your own requirements. We have a range of [cartographic stylesheets](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html) that can help you get started when using OS data products.
 
-## Feedback:
+## Feedback
 
 If you have any feedback about these basemap colour values or the OS Maps API then please raise an issue on this repository.
 
