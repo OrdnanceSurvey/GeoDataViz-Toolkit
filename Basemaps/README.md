@@ -1,8 +1,8 @@
 ## GeoDataViz Toolkit - Basemaps
 
-Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid.
+Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid. Basemaps come in a variety of types, styles, and scales, from full detail to understated ‘background’ styles.
 
-This repository contains the colour values for the OS range of basemap styles.
+_This repository contains the colour values for the OS range of basemap styles and some information regarding the use of them._
 
 ## The OS range of basemap styles:
 
@@ -22,10 +22,18 @@ IMAGE
 
 If you are not intending to add any data overlays then use the **Road** style. If your application is Leisure focused or if the road network is of particular importance then you should use **Outdoor**. If you want to overlay additional layers of data and you are looking for a basemap to simply add context then you should use **Light** or **Night** – the decision as to which is purely an aesthetic one however, using a dark basemap can be arguably more &#39;eye-catching&#39;, yet Light can be more &#39;practical&#39;.
 
+_The colours we use have been tested for accessibility and all maintain a clear visual hierarchy._
+
 ## OS Maps API
 
 All of these basemaps are available through the [OS Maps API](https://developer.ordnancesurvey.co.uk/os-maps-api-enterprise). 
 More information and the documentation can be found [here](https://apidocs.os.uk/docs/os-maps-overview).
+
+## Raster or Vector
+
+If you are using a **raster** basemap then you have less control over the styling. You can still improve it by desaturating the colours or even converting it to greyscale.
+
+If you are using **vector** data to design your own basemap then you have full control over the content and the style. Feel free to use the colours provided in this repository or tweak them to meet your own requirements. We have a range of [cartographic stylesheets](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html) that can help you get started when using OS data products.
 
 ## Feedback:
 
