@@ -16,17 +16,17 @@ IMAGE
 
 ## Using these symbols:
 
-Customise the colours – Once downloaded you can customise the look and feel of these symbols by changing the colour to suite your visualisation.
+**Customise the colours** - Once downloaded you can customise the look and feel of these symbols by changing the colour to suite your visualisation.
 
 IMAGE
 
 _Try using the GeoDataViz colour palettes._
 
-Mix and match - You can edit and combine the symbols to create new custom symbols. For example, you can add any other symbol into the centre of a map pin.
+**Mix and match** - You can edit and combine the symbols to create new custom symbols. For example, you can add any other symbol into the centre of a map pin.
 
 IMAGE
 
-Flexible – You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
+**Flexible** - You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
 
 ## Other useful resources:
 
