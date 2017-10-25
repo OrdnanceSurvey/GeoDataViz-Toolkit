@@ -16,7 +16,7 @@ We have created four house styles for our basemaps:
 
 **Night:** Night mode mapping that&#39;s great in dark environments. It&#39;s at its best on a mobile device, and the dark pixels can help save your battery. See your own data really pop using this style.
 
-IMAGE
+![OS basemap styles](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/os-basemap-styles.gif?token=AF3wjbzATJxMRVi8_JehUx0Gd6JiNdXMks5Z-acjwA%3D%3D)
 
 ## Selecting the right basemap style:
 
