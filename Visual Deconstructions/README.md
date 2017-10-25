@@ -6,15 +6,15 @@ A visual deconstruction is a method of recording the styling rules for a data vi
 
 It is a form of documentation that allows you to quickly reference and recreate styling rules, as well as being able to share it clearly with others. It is also a great way to learn how something is made and therefore is a useful tool for someone designing their own visualisation.
 
-This repository contains all of our visual deconstructions which can be viewed in the browser or downloaded and even printed.
+_This repository contains all of our visual deconstructions which can be viewed in the browser or downloaded and even printed._
 
 ## Using visual deconstructions:
 
-Copy the colours – We list all the styling information including hex colour codes so you can grab the colours and apply them to your own work.
+**Copy the colours** - We list all the styling information including hex colour codes so you can grab the colours and apply them to your own work.
 
-View in the browser – You can view the PDFs directly in the browser by selecting one within this repository.
+**View in the browser** - You can view the PDFs directly in the browser by selecting one within this repository.
 
-Download and print – Print them as a reference when you&#39;re designing your own visualisations. Our visual deconstructions are 210mm wide so they are printable on A4.
+**Download and print** - Print them as a reference when you&#39;re designing your own visualisations. Our visual deconstructions are 210mm wide so they are printable on A4.
 
 ## Make your own visual deconstructions:
 
