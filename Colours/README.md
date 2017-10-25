@@ -10,7 +10,7 @@ _You can view and download the colour palette PDF from this repository._
 
 IMAGE
 
-## Using these colour palettes:
+## Using these colour palettes
 
 Which colours you use will be determined by what type of data you are visualising. Here is a guide to choosing the right palette:
 
@@ -22,7 +22,7 @@ Which colours you use will be determined by what type of data you are visualisin
 
 **Diverging** - Use these colour schemes to highlight values that are above and below an interesting mid-point in quantitative data. Two sequential colour ramps emanate from the neutral colour in the middle which often represents zero or an average value. This is a great way to show data values that differ greatly from the norm. For example, you may use a diverging colour scheme to show population change.
 
-## Other useful resources:
+## Other useful resources
 
 [ColorBrewer](http://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3) - is a great tool for selecting colour schemes that are specific to maps, especially helpful when mapping various classes of data.
 
@@ -38,7 +38,7 @@ Which colours you use will be determined by what type of data you are visualisin
 
 [HEX to RGB converter](https://www.webpagefx.com/web-design/hex-to-rgb/) - Use this tool to quickly convert hex colour codes into RGB values.
 
-## Feedback:
+## Feedback
 
 If you have any feedback about these colour palettes then please raise an issue on this repository.
 
