@@ -12,13 +12,13 @@ In this repository we are sharing resources, assets and other useful links.
 
 Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid.
 
-_In_ _this folder_ _you will find information about the OS range of basemap styles, the colour values for each and some additional information._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Basemaps) you will find information about the OS range of basemap styles, the colour values for each and some additional information._
 
 ## Colours
 
 The use of colour is very often fundamental to the success of a data visualisation. Colour can help with many elements of your design from improving visual contrast to simply catching the eye. Careful use of colour enhances clarity, aids storytelling and draws a viewer into your dataset. Poor use of colour can obscure data, or even mislead.
 
-_In_ _this folder_ _you will find a recommended set of colour palettes, information on how to apply colour to your visualisations and links to other useful colour resources._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Colours) you will find a recommended set of colour palettes, information on how to apply colour to your visualisations and links to other useful colour resources._
 
 ## Symbols
 
@@ -28,7 +28,7 @@ Maps often contain symbols instead of words to label real-life features and make
 
 Symbols can be small pictures, letters, lines or coloured areas to show features like campsites, pubs or bus stations. If you look closely at a map, you will see that it is covered in symbols. There will often be a legend (or key) next to the map to tell you what the symbols mean.
 
-_In_ _this folder_ _you will find a set of Ordnance Survey map symbols, information on how to use symbols effectively and links to other useful map symbol resources._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Symbols) you will find a set of Ordnance Survey map symbols, information on how to use symbols effectively and links to other useful map symbol resources._
 
 ## Visual Deconstructions
 
@@ -36,7 +36,7 @@ A visual deconstruction is a method of recording the styling rules for a data vi
 
 It is a form of documentation that allows you to quickly reference and recreate styling rules, as well as being able to share it clearly with others. It is also a great way to learn how something is made and therefore is a useful tool for someone designing their own visualisation.
 
-_In_ _this folder_ _you will find a gallery of Ordnance Survey visual deconstructions, templates so you can create and share your own, and links to other sources of inspiration._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Visual%20Deconstructions) you will find a gallery of Ordnance Survey visual deconstructions, templates so you can create and share your own, and links to other sources of inspiration._
 
 ## Other GeoDataViz Toolkit resources
 
