@@ -14,7 +14,7 @@ _You can view and download the SVGs from this repository._
 
 IMAGE
 
-## Using these symbols:
+## Using these symbols
 
 **Customise the colours** - Once downloaded you can customise the look and feel of these symbols by changing the colour to suite your visualisation.
 
@@ -28,7 +28,7 @@ IMAGE
 
 **Flexible** - You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
 
-## Other useful resources:
+## Other useful resources
 
 [Maki](https://www.mapbox.com/maki-icons/) - is an icon set made for map designers, perfect if you&#39;re making a map for web or mobile.
 
@@ -50,7 +50,7 @@ Our intention is to only release SVG files. There are many tools available to co
 
 
 
-## Feedback and symbol requests:
+## Feedback and symbol requests
 
 If you have any feedback about these symbols or would like to request a new one for the set then please raise an issue on this repository.
 
