@@ -18,7 +18,7 @@ _You can view and download the SVGs from this repository._
 
 ![custom colours](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/blob/master/img/image_symbol3-01.png)
 
-_Try using the GeoDataViz colour palettes._
+_Try using the GeoDataViz [colour palettes](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Colours)._
 
 **Mix and match** - You can edit and combine the symbols to create new custom symbols. For example, you can add any other symbol into the centre of a map pin.
 
