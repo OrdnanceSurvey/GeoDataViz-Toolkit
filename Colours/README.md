@@ -34,6 +34,8 @@ Which colours you use will be determined by what type of data you are visualisin
 
 [Subtleties of color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/) - This is a fantastic 6-part series of articles about the use of colour in dataviz.
 
+[Choosing colour for choropleth maps](http://academy.datawrapper.de/article/117-color-palette-for-your-map) - This is a fantastic, helpful article from Lisa Charlotte Rost at Datawrapper.
+
 [The viridis colour palettes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - These fantastic colour schemes help &quot;make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.&quot;
 
 [HEX to RGB converter](https://www.webpagefx.com/web-design/hex-to-rgb/) - Use this tool to quickly convert hex colour codes into RGB values.
