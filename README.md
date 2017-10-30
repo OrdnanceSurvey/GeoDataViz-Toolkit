@@ -68,6 +68,8 @@ _NOTE: It is our intention to pull all of these resources and assets together in
 
 [The little of visualisation design](http://www.visualisingdata.com/2016/03/little-visualisation-design/) - This is a collection of the entire, growing series of posts about the &#39;little of visualisation design&#39;, respecting the small decisions that make a big difference towards the good and bad of this discipline.
 
+[Mapbox's guide to map design](https://www.mapbox.com/map-design/) - This guide is made for designers getting started with maps and experts fine-tuning details for a particular use case. 
+
 ## Feedback
 
 If you have any feedback about the GeoDataViz Toolkit then please raise an issue on this repository.
