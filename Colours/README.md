@@ -8,7 +8,7 @@ These colour palettes have been selected to offer a good range of options depend
 
 _You can view and download the colour palette PDF from this repository._
 
-IMAGE
+![Colour palettes](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/Colour-palettes-2.png)
 
 ## Using these colour palettes
 
