@@ -2,7 +2,7 @@
 
 Often referred to as a contextual or backdrop map, a basemap contains reference information used to both orient the map and add context to any data that is overlaid. Basemaps come in a variety of types, styles, and scales, from full detail to understated ‘background’ styles.
 
-_This repository contains the colour values for the OS range of basemap styles and some information regarding the use of them._
+_This repository contains the colour values for the OS range of basemap styles and some information regarding the use of them. Use these colours to style up your own vector data._
 
 ## The OS range of basemap styles
 
