@@ -38,6 +38,12 @@ It is a form of documentation that allows you to quickly reference and recreate 
 
 _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Visual%20Deconstructions) you will find a gallery of Ordnance Survey visual deconstructions, templates so you can create and share your own, and links to other sources of inspiration._
 
+## Workshops
+
+A workshop is a meeting at which a group of people engage in discussion and activity on a particular topic. We often host workshops at different events and we want to use the GeoDataViz Toolkit to share them more broadly. The topics usually focus on a particular aspect of cartography or data visualisation.
+
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Workshops) you will find our workshops which include step-by-step workbooks and data._
+
 ## Other GeoDataViz Toolkit resources
 
 [Cartographic Design Principles](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)- Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
