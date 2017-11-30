@@ -4,7 +4,7 @@ In this workshop we explore various thematic mapping techniques. We will be usin
 
 We will be looking at greenspaces within Greater London.
 
-**You will need to download this repository onto your machine before getting started.**
+*You will need to download this repository onto your machine before getting started.*
 
 ## What’s included?
 
