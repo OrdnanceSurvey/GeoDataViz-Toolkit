@@ -35,6 +35,10 @@ If you are using a **raster** basemap then you have less control over the stylin
 
 If you are using **vector** data to design your own basemap then you have full control over the content and the style. Feel free to use the colours provided in this repository or tweak them to meet your own requirements. We have a range of [cartographic stylesheets](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html) that can help you get started when using OS data products.
 
+## Other useful resources
+
+[Effective basemaps](https://www.ordnancesurvey.co.uk/blog/2017/12/effective-basemaps/) - this blog post explores the options available and shares some useful tips for presenting your contextual data effectively.
+
 ## Feedback
 
 If you have any feedback about these basemap colour values or the OS Maps API then please raise an issue on this repository.
