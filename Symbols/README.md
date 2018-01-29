@@ -28,6 +28,8 @@ _Try using the GeoDataViz [colour palettes](https://github.com/OrdnanceSurvey/Ge
 
 ## Other useful resources
 
+[Blog post: Map Symbols](https://www.ordnancesurvey.co.uk/blog/2018/01/geodataviz-map-symbols/) - This post explores various considerations for map symbol design.
+
 [Maki](https://www.mapbox.com/maki-icons/) - is an icon set made for map designers, perfect if you&#39;re making a map for web or mobile.
 
 [The Noun Project](https://thenounproject.com/) - has a huge library of icons, many of which are great for mapping.
