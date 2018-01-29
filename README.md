@@ -58,8 +58,6 @@ _NOTE: It is our intention to pull all of these resources and assets together in
 
 [Why data viz?](http://www.optasportspro.com/about/optapro-blog/posts/2015/guest-blog-why-data-viz/) - The first in a mini-series of articles on data visualisation that appeared on the OptaPro blog.
 
-[Vizipedia](http://www.vizipedia.com/) - This site provides a comprehensive collection of data visualisation techniques and other useful information.
-
 [Data Viz Catalogue](http://www.datavizcatalogue.com/) - A library of different visualisation types.
 
 [Data Viz Project](http://datavizproject.com/) - A website trying to present all relevant data visualisations, so you can find the right type and get inspiration on how to do it.
