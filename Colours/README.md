@@ -24,6 +24,8 @@ Which colours you use will be determined by what type of data you are visualisin
 
 ## Other useful resources
 
+[Using blend modes and opacity levels](https://www.ordnancesurvey.co.uk/blog/2017/02/carto-tips-using-blend-modes-opacity-levels/) - This blog post explores opacity levels and blend modes and shows some examples of how we can use them together to create effective visualisations.
+
 [ColorBrewer](http://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3) - is a great tool for selecting colour schemes that are specific to maps, especially helpful when mapping various classes of data.
 
 [Adobe Color CC](https://color.adobe.com/create/color-wheel) - is an excellent application for generating colour themes and allows you to experiment quickly with colour variations and browse themes from the user community.
