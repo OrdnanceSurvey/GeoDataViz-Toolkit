@@ -81,3 +81,9 @@ If you have any feedback about the GeoDataViz Toolkit then please raise an issue
 Thank you
 
 OS GeoDataViz team
+
+## Licence
+
+The contents of this repository are licensed under the [Open Government Licence 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/)
+
+![Logo](http://www.nationalarchives.gov.uk/images/infoman/ogl-symbol-41px-retina-black.png "OGL logo")
