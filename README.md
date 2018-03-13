@@ -74,6 +74,8 @@ _NOTE: It is our intention to pull all of these resources and assets together in
 
 [Mapbox's guide to map design](https://www.mapbox.com/map-design/) - This guide is made for designers getting started with maps and experts fine-tuning details for a particular use case. 
 
+[Axis Maps Cartography Guide](https://www.axismaps.com/guide/) - A short, friendly guide to basic principles of map design.
+
 ## Feedback
 
 If you have any feedback about the GeoDataViz Toolkit then please raise an issue on this repository.
