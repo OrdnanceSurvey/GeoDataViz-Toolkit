@@ -3,7 +3,7 @@
 This workshop acts as a nice intro to OS Open Zoomstack, specifically the vector tiles.
 We will create a custom map style, add a custom dataset and then create a scrolling story map which we will host on GitHub Pages.
 
-You can see an example of the map we'll be creating [here](https://www.charleyglynn.github.io/brewdog-map).
+You can see an example of the map we'll be creating [here](charleyglynn.github.io/brewdog-map).
 
 ## What’s included?
 
