@@ -1,4 +1,5 @@
-## GeoDataViz Toolkit - Symbols
+## GeoDataViz Toolkit - Symbols ##
+
 
 Symbols help us to include lots of detail on maps.
 
