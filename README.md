@@ -30,14 +30,6 @@ Symbols can be small pictures, letters, lines or coloured areas to show features
 
 _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Symbols) you will find a set of Ordnance Survey map symbols, information on how to use symbols effectively and links to other useful map symbol resources._
 
-## Visual Deconstructions
-
-A visual deconstruction is a method of recording the styling rules for a data visualisation. It is made up of a title, a description, a url where relevant, keyword tags, an image, plus the draw order and styling information for each layer of data from which it is compiled.
-
-It is a form of documentation that allows you to quickly reference and recreate styling rules, as well as being able to share it clearly with others. It is also a great way to learn how something is made and therefore is a useful tool for someone designing their own visualisation.
-
-_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Visual%20Deconstructions) you will find a gallery of Ordnance Survey visual deconstructions, templates so you can create and share your own, and links to other sources of inspiration._
-
 ## Workshops
 
 A workshop is a meeting at which a group of people engage in discussion and activity on a particular topic. We often host workshops at different events and we want to use the GeoDataViz Toolkit to share them more broadly. The topics usually focus on a particular aspect of cartography or data visualisation.
