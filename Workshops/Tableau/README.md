@@ -13,7 +13,7 @@ In this workshop we look at various techniques for visualising RNLI data alongsi
 ## Prerequisites
 
 You will need to create a free [Mapbox](https://www.mapbox.com/) account.
-You will need to download Tableau Public [Tableau](https://public.tableau.com/en-us/s/)
+You will need to download [Tableau Public](https://public.tableau.com/en-us/s/)
 
 ## Data & Licence
 
