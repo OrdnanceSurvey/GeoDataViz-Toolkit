@@ -14,6 +14,12 @@ Often referred to as a contextual or backdrop map, a basemap contains reference 
 
 _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Basemaps) you will find information about the OS range of basemap styles, the colour values for each and some additional information._
 
+## Cartographic Design Principles
+
+Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
+
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Cartographic%20Design%20Principles) you will find our eight Design Principles and a handy checklist._
+
 ## Colours
 
 The use of colour is very often fundamental to the success of a data visualisation. Colour can help with many elements of your design from improving visual contrast to simply catching the eye. Careful use of colour enhances clarity, aids storytelling and draws a viewer into your dataset. Poor use of colour can obscure data, or even mislead.
@@ -35,13 +41,6 @@ _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/mast
 A workshop is a meeting at which a group of people engage in discussion and activity on a particular topic. We often host workshops at different events and we want to use the GeoDataViz Toolkit to share them more broadly. The topics usually focus on a particular aspect of cartography or data visualisation.
 
 _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Workshops) you will find our workshops which include step-by-step workbooks and data._
-
-## Cartographic Design Principles
-
-Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
-
-_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Cartographic%20Design%20Principles) you will find our eight Design Principles and a handy checklist._
-
 
 ## Other useful resources
 
