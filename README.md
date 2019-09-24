@@ -36,13 +36,9 @@ A workshop is a meeting at which a group of people engage in discussion and acti
 
 _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Workshops) you will find our workshops which include step-by-step workbooks and data._
 
-## Other GeoDataViz Toolkit resources
+## Cartographic Design Principles
 
-[Cartographic Design Principles](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)- Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
-
-[Cartographic stylesheets](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)- We are committed to making our products as easy to use as possible. We have developed a range of stylesheets for our data products which are compatible with various mapping software.
-
-_NOTE: It is our intention to pull all of these resources and assets together into one place on our website._
+Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
 
 ## Other useful resources
 
