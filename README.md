@@ -40,7 +40,7 @@ _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/mast
 
 Inspired by Dieter Rams&#39; &#39;ten principles of good design&#39;, we have put together our own set of principles that we believe are fundamental to successful map design.
 
-_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Cartographic%20Design%20Principles) you will find our eight Design Principles._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Cartographic%20Design%20Principles) you will find our eight Design Principles and a handy checklist._
 
 
 ## Other useful resources
