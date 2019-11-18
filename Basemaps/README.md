@@ -33,7 +33,7 @@ More information and the documentation can be found [here](https://apidocs.os.uk
 
 If you are using a **raster** basemap then you have less control over the styling. You can still improve it by desaturating the colours or even converting it to greyscale.
 
-If you are using **vector** data to design your own basemap then you have full control over the content and the style. Feel free to use the colours provided in this repository or tweak them to meet your own requirements. We have a range of [cartographic stylesheets](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html) that can help you get started when using OS data products.
+If you are using **vector** data to design your own basemap then you have full control over the content and the style. Feel free to use the colours provided in this repository or tweak them to meet your own requirements. We have a range of [cartographic stylesheets](https://github.com/OrdnanceSurvey?utf8=%E2%9C%93&q=stylesheet&type=&language=) that can help you get started when using OS data products.
 
 ## Other useful resources
 
