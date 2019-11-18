@@ -14,14 +14,14 @@ Each principle is supported by a real example of how we have applied it to one o
 
 Through the correct application of cartography a well-designed map communicates its message clearly and provides a pleasing user experience.  We believe that the following eight principles are fundamental to successful map design:
 
-* [Understanding of user requirements](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#understanding-of-user-requirements)
-* [Consideration of display format](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#consideration-of-display-format)
-* [A clear visual hierarchy](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#a-clear-visual-hierarchy)
-* [Simplicity](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#simplicity)
-* [Legibility](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#legibility)
-* [Consistency](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#consistency)
-* [Accessibility](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#accessibility)
-* [Good composition](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/new/master/Cartographic%20Design%20Principles#good-composition)
+* [Understanding of user requirements](#understanding-of-user-requirements)
+* [Consideration of display format](#consideration-of-display-format)
+* [A clear visual hierarchy](#a-clear-visual-hierarchy)
+* [Simplicity](#simplicity)
+* [Legibility](#legibility)
+* [Consistency](#consistency)
+* [Accessibility](#accessibility)
+* [Good composition](#good-composition)
 
 _You may find the checklist in this repository useful as a reference when making your own maps and visualisations._
 
