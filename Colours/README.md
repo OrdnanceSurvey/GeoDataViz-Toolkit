@@ -42,6 +42,8 @@ Which colours you use will be determined by what type of data you are visualisin
 
 [HEX to RGB converter](https://www.webpagefx.com/web-design/hex-to-rgb/) - Use this tool to quickly convert hex colour codes into RGB values.
 
+[Colour Scale in Data Viz] (https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/) - A great 4 part blog from Lisa Rost at Datwrapper explaining what colour scale to use when creating data visualisations.
+
 ## Feedback
 
 If you have any feedback about these colour palettes then please raise an issue on this repository.
