@@ -10,6 +10,10 @@ _You can view and download the colour palette PDF from this repository. You can 
 
 ![Colour palettes](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/Colour-palettes-2.png)
 
+## ESRI Style File
+
+We have now added an ArcGIS Pro style or .stylx file to this repo which you can load into ArcGIS Pro to access all the colours from the palette.
+
 ## Using these colour palettes
 
 Which colours you use will be determined by what type of data you are visualising. Here is a guide to choosing the right palette:
