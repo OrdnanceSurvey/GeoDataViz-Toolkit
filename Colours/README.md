@@ -12,7 +12,7 @@ _You can view and download the colour palette PDF from this repository. You can 
 
 ## ESRI Style File
 
-We have now added an ArcGIS Pro style or .stylx file to this repo which you can load into ArcGIS Pro to access all the colours from the palette.
+We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Palettes.stylx) to this repo which you can load into ArcGIS Pro to access all the colours from the palette.
 
 ## Using these colour palettes
 
