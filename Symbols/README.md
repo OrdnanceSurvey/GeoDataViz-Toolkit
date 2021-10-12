@@ -27,6 +27,10 @@ _Try using the GeoDataViz [colour palettes](https://github.com/OrdnanceSurvey/Ge
 
 **Flexible** - You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
 
+## ESRI Style File
+
+We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Symbols.stylx) to this repo which you can load into ArcGIS Pro and access all the symbols from the toolkit.
+
 ## Other useful resources
 
 [Blog post: Map Symbols](https://www.ordnancesurvey.co.uk/blog/2018/01/geodataviz-map-symbols/) - This post explores various considerations for map symbol design.
