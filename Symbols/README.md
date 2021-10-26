@@ -27,9 +27,20 @@ _Try using the GeoDataViz [colour palettes](https://github.com/OrdnanceSurvey/Ge
 
 **Flexible** - You can use these symbols for web mapping, desktop GIS or even graphic design. You can also convert SVG into many other image formats.
 
+## QGIS XML File
+
+We have now added a QGIS XML file (OS GeoDataViz Colours & Symbols (QGIS).xml) to this repo which you can load into QGIS and access all the colours and symbols from the toolkit.
+
+- Download the toolkit.
+- Open QGIS.
+- Settings > Style Manager.
+- Import/Export > Import.
+- Import from File > Navigate to location of XML > Open > Add to favourites > Remove or add any additional tag(s) > Select All > Import
+- GDV can be found under Tags
+
 ## ESRI Style File
 
-We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Symbols.stylx) to this repo which you can load into ArcGIS Pro and access all the symbols from the toolkit.
+We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Symbols (ESRI).stylx) to this repo which you can load into ArcGIS Pro and access all the symbols from the toolkit.
 
 ## Other useful resources
 
