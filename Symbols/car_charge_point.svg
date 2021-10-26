@@ -9,7 +9,7 @@
 			<path d="M126,70.6c0-7.4-5.4-13.5-12.5-15.1V49c0-11.9-9.7-21.6-21.6-21.6h-7.1v-2.6c0-9.8-8-17.8-17.8-17.8H44.1
 				c-9.8,0-17.8,8-17.8,17.8v96.8h-4.1c-3.6,0-6.5,2.9-6.5,6.5c0,3.6,2.9,6.5,6.5,6.5h4.1h58.5h4.1c3.6,0,6.5-2.9,6.5-6.5
 				c0-3.6-2.9-6.5-6.5-6.5h-4.1V35h7.1c7.7,0,14,6.3,14,14v6.5c-7,1.7-12.2,7.8-12.2,15v4.6h6.9v10.3c0,1.5,1.2,2.7,2.7,2.7
-				c1.5,0,2.7-1.2,2.7-2.7V75.2h7.7v10.3c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7V75.2h6.9V70.6z"/>
+				c1.5,0,2.7-1.2,2.7-2.7V75.2h7.7v10.3c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7V75.2h6.9V70.6z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 		</g>
 		<g>
 			<g>
@@ -22,7 +22,7 @@
 		</g>
 		<g>
 			<g>
-				<path d="M52.2,57v-9.8h-9.9v-6.8h9.9v-9.8h6.6v9.8h9.9v6.8h-9.9V57H52.2z"/>
+				<path d="M52.2,57v-9.8h-9.9v-6.8h9.9v-9.8h6.6v9.8h9.9v6.8h-9.9V57H52.2z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 			</g>
 		</g>
 	</g>

@@ -5,6 +5,6 @@
 	 viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7" xml:space="preserve">
 <g>
 	<path d="M65.4,61.9c-17.6,2.6-31.1,17.6-31.1,36.1c0,20.2,16.3,36.6,36.6,36.6c20.2,0,36.6-16.3,36.6-36.6
-		c0-18.3-13.5-33.5-31.1-36.1V36h27.2V25.2H76.3V7.1H65.4v18.1H38.2V36h27.2V61.9L65.4,61.9z"/>
+		c0-18.3-13.5-33.5-31.1-36.1V36h27.2V25.2H76.3V7.1H65.4v18.1H38.2V36h27.2V61.9L65.4,61.9z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 </g>
 </svg>

@@ -5,9 +5,9 @@
 	 viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7" xml:space="preserve">
 <g>
 	<path d="M77.1,38.4c-2.4-0.5-7.3-0.7-14.6-0.7h-9.8v28.4h11.1c8,0,13.3-0.5,16-1.6c2.7-1,4.8-2.7,6.3-4.9c1.5-2.2,2.3-4.8,2.3-7.8
-		c0-3.6-1.1-6.7-3.2-9C83,40.5,80.3,39,77.1,38.4z"/>
+		c0-3.6-1.1-6.7-3.2-9C83,40.5,80.3,39,77.1,38.4z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	<path d="M7.1,7.1v127.6h127.6V7.1H7.1z M105.9,67.1c-2.2,4.2-5.1,7.5-8.5,9.9c-3.4,2.4-6.9,4-10.5,4.8c-4.8,1-11.8,1.4-21,1.4H52.7
 		V121H32.5V20.8H65c12.3,0,20.3,0.5,24.1,1.5c5.7,1.5,10.5,4.8,14.4,9.8c3.9,5,5.8,11.5,5.8,19.5C109.3,57.7,108.1,62.9,105.9,67.1z
-		"/>
+		" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 </g>
 </svg>

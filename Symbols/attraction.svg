@@ -4,5 +4,5 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7" xml:space="preserve">
 <path fill="#010101" d="M55.7,56.7H7.1l38.8,28.1l-15.1,45.2l39.4-28l39.4,28.4L94.5,85.1l40.1-28H86L70.6,11.4L55.7,56.7L55.7,56.7
-	z"/>
+	z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 </svg>

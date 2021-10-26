@@ -7,7 +7,7 @@
 	<g>
 		<path fill="#0E1111" d="M121.5,37.2v44.9H20.3V20.3H7.1v101.1h13.2V98.9h101.2v22.6h13.2V37.2H121.5z M109.5,43.7h-49v26h49V43.7
 			L109.5,43.7z M42.2,71.3C49.3,71.3,55,64,55,54.9c0-9.1-5.8-16.4-12.9-16.4c-7.1,0-12.9,7.4-12.9,16.4
-			C29.3,64,35.1,71.3,42.2,71.3z"/>
+			C29.3,64,35.1,71.3,42.2,71.3z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 </g>
 </svg>

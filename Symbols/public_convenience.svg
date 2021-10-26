@@ -6,20 +6,20 @@
 <g>
 	<g>
 		<path d="M45.6,33.8c0,9.7-7.8,17.5-17.5,17.5l0,0c-9.7,0-17.5-7.8-17.5-17.5l0,0c0-9.7,7.8-17.5,17.5-17.5l0,0
-			C37.8,16.3,45.6,24.2,45.6,33.8L45.6,33.8z"/>
+			C37.8,16.3,45.6,24.2,45.6,33.8L45.6,33.8z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 	<g>
-		<rect x="66.1" y="7.1" width="9" height="127.6"/>
+		<rect x="66.1" y="7.1" width="9" height="127.6" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 	<g>
 		<path d="M96.1,33.8c0,9.7,7.8,17.5,17.5,17.5l0,0c9.7,0,17.5-7.8,17.5-17.5l0,0c0-9.7-7.8-17.5-17.5-17.5l0,0
-			C104,16.3,96.1,24.2,96.1,33.8L96.1,33.8z"/>
+			C104,16.3,96.1,24.2,96.1,33.8L96.1,33.8z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 	<g>
-		<path d="M49.1,68.8c0-4.7-3.8-8.5-8.5-8.5h-25c-4.7,0-8.5,3.8-8.5,8.5v32.5h10.8l2.2,33.3h16l2.2-33.3h10.8L49.1,68.8z"/>
+		<path d="M49.1,68.8c0-4.7-3.8-8.5-8.5-8.5h-25c-4.7,0-8.5,3.8-8.5,8.5v32.5h10.8l2.2,33.3h16l2.2-33.3h10.8L49.1,68.8z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 	<g>
-		<path d="M134.6,118.2l-6-49.4c0-4.7-3.8-8.5-8.5-8.5h-13c-4.7,0-8.5,3.8-8.5,8.5l-6,49.4h10.8l2.2,16.5h16l2.2-16.5H134.6z"/>
+		<path d="M134.6,118.2l-6-49.4c0-4.7-3.8-8.5-8.5-8.5h-13c-4.7,0-8.5,3.8-8.5,8.5l-6,49.4h10.8l2.2,16.5h16l2.2-16.5H134.6z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
 	</g>
 </g>
 </svg>
