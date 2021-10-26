@@ -10,9 +10,20 @@ _You can view and download the colour palette PDF from this repository. You can 
 
 ![Colour palettes](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/Colour-palettes-2.png)
 
+## QGIS XML File
+
+We have now added a QGIS XML file (OS GeoDataViz Colours & Symbols (QGIS).xml) to this repo which you can load into QGIS and access all the colours and symbols from the toolkit.
+
+- Download the toolkit.
+- Open QGIS.
+- Settings > Style Manager.
+- Import/Export > Import.
+- Import from File > Navigate to location of XML > Open > Add to favourites > Remove or add any additional tag(s) > Select All > Import
+- GDV can be found under Tags
+
 ## ESRI Style File
 
-We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Palettes.stylx) to this repo which you can load into ArcGIS Pro and access all the colours from the palette.
+We have now added an ArcGIS Pro style or .stylx file (OS GeoDataViz Colours (ESRI).stylx) to this repo which you can load into ArcGIS Pro and access all the colours from the palette.
 
 ## Using these colour palettes
 
