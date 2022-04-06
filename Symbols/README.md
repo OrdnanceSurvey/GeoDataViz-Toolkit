@@ -32,6 +32,7 @@ _Try using the GeoDataViz [colour palettes](https://github.com/OrdnanceSurvey/Ge
 We have now added a QGIS XML file (OS GeoDataViz Colours & Symbols (QGIS).xml) to this repo which you can load into QGIS and access all the colours and symbols from the toolkit.
 
 - Download the toolkit.
+- Copy the folder GDV Symbols to C:\Program Files\QGIS xxxx\apps\qgis-ltr\svg, where xxxx represents whatever version of QGIS you are running).
 - Open QGIS.
 - Settings > Style Manager.
 - Import/Export > Import.
