@@ -52,7 +52,7 @@ _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/mast
 
 [Data Viz Project](http://datavizproject.com/) - A website trying to present all relevant data visualisations, so you can find the right type and get inspiration on how to do it.
 
-[Data Viz tools and resources](http://dataviz.tools/) - A curated guide to the best tools, resources and technologies for data visualisation.
+[Data Viz tools and resources](http://dataviz/tools/) - A curated guide to the best tools, resources and technologies for data visualisation.
 
 [Data Viz Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) - This checklist is meant to be used as a guide for the development of high impact data visualisations.
 
