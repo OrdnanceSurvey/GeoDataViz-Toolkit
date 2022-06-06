@@ -58,6 +58,8 @@ _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/mast
 
 [ONS DataViz guidance](http://style.ons.gov.uk/category/data-visualisation/) - Guidance for creating charts and tables and best practice for using colour in your work.
 
+[Geo Data Viz tools and resources](https://docs.google.com/spreadsheets/d/1aLOpW2oQHw5r2vc70o8TiM5SJctR9TuH4a70d-ZtbXA/edit?usp=drivesdk) - A maptastic collection of resources created by Kate Berg @pokateo_. 
+
 [FT Visual vocabulary](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf) - A superb poster to assist designers and journalists to select the optimal symbology for data visualisations, by the Financial Times Visual Journalism Team. We have one on the wall in OSHQ!
 
 [The little of visualisation design](http://www.visualisingdata.com/2016/03/little-visualisation-design/) - This is a collection of the entire, growing series of posts about the &#39;little of visualisation design&#39;, respecting the small decisions that make a big difference towards the good and bad of this discipline.
