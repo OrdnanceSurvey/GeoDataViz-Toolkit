@@ -15,6 +15,7 @@ _You can view and download the colour palette PDF from this repository. You can 
 We have now added a QGIS XML file (OS GeoDataViz Colours & Symbols (QGIS).xml) to this repo which you can load into QGIS and access all the colours and symbols from the toolkit.
 
 - Download the toolkit.
+- Copy the folder GDV Symbols to C:\Program Files\QGIS xxxx\apps\qgis-ltr\svg, where xxxx represents whatever version of QGIS you are running).
 - Open QGIS.
 - Settings > Style Manager.
 - Import/Export > Import.
