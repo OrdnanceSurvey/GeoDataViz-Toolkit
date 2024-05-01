@@ -24,7 +24,7 @@ _In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/mast
 
 The use of colour is very often fundamental to the success of a data visualisation. Colour can help with many elements of your design from improving visual contrast to simply catching the eye. Careful use of colour enhances clarity, aids storytelling and draws a viewer into your dataset. Poor use of colour can obscure data, or even mislead.
 
-_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Colours) you will find a recommended set of colour palettes, information on how to apply colour to your visualisations and links to other useful colour resources._
+_In [this folder](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Colours) you will find a recommended set of colour palettes, information on how to apply colour to your visualisations and links to other useful colour resources. This now includes two new CVD friendly diverging palettes._
 
 ## Symbols
 
