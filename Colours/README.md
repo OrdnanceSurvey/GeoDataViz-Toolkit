@@ -6,6 +6,10 @@ The use of colour is very often fundamental to the success of a data visualisati
 
 These colour palettes have been selected to offer a good range of options depending on your data. We have carefully considered [colour vision deficiencies](https://en.wikipedia.org/wiki/Color_blindness) and each colour scheme has been tested for compatibility. These colours take inspiration from other people's great work, OS' history and our own experiences.
 
+## Update 01/05/2024
+
+We have recently added two new CVD friendly diverging colour palettes which you can find when downloading GDV colour palettes v0.8.pdf
+
 _You can view and download the colour palette PDF from this repository. You can also use the JSON to reference the colours in your web projects._
 
 ![Colour palettes](https://raw.githubusercontent.com/OrdnanceSurvey/GeoDataViz-Toolkit/master/img/Colour-palettes-2.png)
