@@ -8,7 +8,7 @@ These colour palettes have been selected to offer a good range of options depend
 
 ## Update 01/05/2024
 
-We have recently added two new CVD friendly diverging colour palettes which you can find when downloading GDV colour palettes v0.8.pdf
+We have recently added two new CVD friendly diverging colour palettes and a new CVD Red/Amber/Green colour pallet which you can find when downloading GDV colour palettes v0.8.pdf
 
 _You can view and download the colour palette PDF from this repository. You can also use the JSON to reference the colours in your web projects._
 
